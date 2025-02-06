@@ -149,6 +149,18 @@ footer.footer {
   margin-bottom: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.registro-form div {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.registro-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
 }
 
 .registro-form button {
@@ -159,4 +171,5 @@ footer.footer {
   background-color: #2193b0;
   color: white;
   cursor: pointer;
+  box-sizing: border-box;
 }
